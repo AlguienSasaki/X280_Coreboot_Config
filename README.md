@@ -13,5 +13,5 @@ If you use the default coreboot configuration, you will encounter the following 
 - Only 4 threads will be available (alt least with my i7-8650u, but another Skylake/Kabylake are reported to fail)
 - UEFI settings won't be saved, that means you cannot create/save boot entries.
 
-![Thinkpad X280 Coreboot](https://github.com/AlguienSasaki/X280Libreboot/blob/main/2026-02-22-13-51-02-995.jpg?raw=true)
-![Thinkpad X280 Coreboot EDK2 functional screen](https://github.com/AlguienSasaki/X280Libreboot/blob/main/2026-02-22-13-51-17-893.jpg?raw=true)
+![Thinkpad X280 Coreboot](https://github.com/AlguienSasaki/X280Libreboot/blob/main/imgs/2026-02-22-13-51-02-995.jpg?raw=true)
+![Thinkpad X280 Coreboot EDK2 functional screen](https://github.com/AlguienSasaki/X280Libreboot/blob/main/imgs/2026-02-22-13-51-17-893.jpg?raw=true)
